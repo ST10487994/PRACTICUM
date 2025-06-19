@@ -7,4 +7,4 @@ these two screenshots of code collect song details and add them to a playlist. i
 these two screenshots of code is meant to display the playlist and caculations as well as the average rating. The logic is in place but i could'nt get the playlist to display due the Song issue.(my apologies)
 
 Reference
-IIE MSA.(2025).IMAD5112Introduction to Mobile Application Development:Module Manual.IIE MSA
+IIE MSA.(2025).IMAD5112Introduction to Mobile Application Development:Module Manual.IIE MSA.
